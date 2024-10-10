@@ -1,0 +1,17 @@
+:root {
+  --primary-color: rgb(255, 255, 255);
+  --secondary-color: rgb(95, 148, 148);
+}
+
+#top-nav {
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  height: 50px;
+  font-size: 1.5rem;
+}
+#top-nav ol {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}

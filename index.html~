@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
+    <link href="assets/css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="" id="container">
+      -- ...
+      <nav id="top-nav" class="box">
+        <div>
+        <ol>
+          <li>Home</li>
+          <li>Contatti</li>
+          <li>Chi Sono</li>
+          <li>Social</li>
+        </ol>
+      </nav>
+    </div>
+  </body>
+</html>

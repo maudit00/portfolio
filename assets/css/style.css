@@ -1,17 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,500;1,500&display=swap");
+
+/*----- GENERAL ------ */
 :root {
   --primary-color: rgb(255, 255, 255);
   --secondary-color: rgb(95, 148, 148);
+  --tertiary-color: rgb(0, 0, 0);
 }
 
-#top-nav {
-  background-color: var(--secondary-color);
-  color: var(--primary-color);
-  height: 50px;
-  font-size: 1.5rem;
+* {
+  box-sizing: border-box;
+  font-family: "Exo 2", sans-serif;
 }
-#top-nav ol {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  list-style: none;
+
+body {
+  height: 100vh;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  background-imageopac
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+/*----- HEADER ------ */
+#header {
+  font-size: 2rem;
+}
+
+nav {
+  display
+}
+.nav {
+  display: none;
 }
